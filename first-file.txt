@@ -1,5 +1,3 @@
 Hello world!!!
 This is clone!!
-new-feature
-
-new-featurenew-feature
+awesome-feature awesome-feature
