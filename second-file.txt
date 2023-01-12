@@ -1,1 +1,2 @@
 This is clone2!!!
+나는 클론이다
